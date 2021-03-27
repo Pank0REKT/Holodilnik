@@ -1,0 +1,12 @@
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\bin\Debug\Kyrs_Project.exe.config
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\bin\Debug\Kyrs_Project.exe
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\bin\Debug\Kyrs_Project.pdb
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\obj\Debug\Kyrs_Project.csprojAssemblyReference.cache
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\obj\Debug\Kyrs_Project.Form1.resources
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\obj\Debug\Kyrs_Project.Properties.Resources.resources
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\obj\Debug\Kyrs_Project.csproj.GenerateResource.cache
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\obj\Debug\Kyrs_Project.csproj.CoreCompileInputs.cache
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\obj\Debug\Kyrs_Project.exe
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\obj\Debug\Kyrs_Project.pdb
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\obj\Debug\Kyrs_Project.panel_ypr.resources
+E:\Kyrsovoy Project\Kyrs_Project\Kyrs_Project\obj\Debug\Kyrs_Project.open.resources
